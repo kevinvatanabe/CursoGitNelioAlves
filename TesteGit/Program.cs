@@ -9,10 +9,9 @@ namespace TesteGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Olá Mundo, em inglês.");
 
-            for (int i = 0; i < 500; i++)
-            {
-                Console.WriteLine("ATA");
-            }
+            Console.WriteLine("Tudo normal, por enquanto...");
+            Console.WriteLine("Acabei de aprender a remover um commit mantendo as alterações que fiz" +
+                " incrível!");
         }
     }
 }
