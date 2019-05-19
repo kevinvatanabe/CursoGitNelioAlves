@@ -8,6 +8,11 @@ namespace TesteGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Olá Mundo, em inglês.");
+
+            for (int i = 0; i < 500; i++)
+            {
+                Console.WriteLine("ATA");
+            }
         }
     }
 }
